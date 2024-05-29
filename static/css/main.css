@@ -3,3 +3,16 @@ body{
     font-family: sans-serif;
 
 }
+
+.container{
+    
+    display: block;
+    justify-content: center;
+}
+
+table tr td {
+    padding: 5px;
+}
+th{
+    padding: 5px;
+}
